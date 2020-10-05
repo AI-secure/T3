@@ -1,6 +1,6 @@
 # T3
 
-This is the official code base for the paper, "T3: Tree-Autoencoder Constrained Adversarial Text Generation for Targeted Attack".
+This is the official code base for the EMNLP 2020 paper, "T3: Tree-Autoencoder Constrained Adversarial Text Generation for Targeted Attack".
 
 This repo contains the code to attack both classification models (self-attentive models and BERT) and question answering models (BiDAF and BERT). We put our attack code in each folders. 
 
