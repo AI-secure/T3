@@ -17,6 +17,8 @@ We trained our tree-based autoencoder on the Yelp review training dataset.
 Related code can be found `SAM-attack/my_generator/`. Before training, each 
 sentence in the training set should be parsed by Stanford CoreNLP Parser to get its dependency structures.
 
+We also provide our pre-trained checkpoint [here](https://drive.google.com/file/d/1gIILKNhE3H0heisgNVHbES3GKWos4w1K/view?usp=sharing).
+
 ## Contributions
 
 We welcome all kinds of contribution by opening a pull request. If you have questions, please open an issue for discussion.   
